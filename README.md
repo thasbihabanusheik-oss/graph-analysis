@@ -54,7 +54,7 @@ A saved image graph_visualization.png showing the graph
 
 
 
-SOutput
+Output
 
 ==================================================
 BASIC GRAPH PROPERTIES
